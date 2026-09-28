@@ -1,21 +1,16 @@
-# 🎓 Edu - Educador Financeiro Inteligente
+# 🧌 Gigante - O ombro das pequenas empresas
 
-> Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
+Assistente virtual para pequenos empresários brasileiros.
 
-## 💡 O Que é o Edu?
+## 💡 O Que é o Gigante?
 
-O Edu é um educador financeiro que **ensina**, não recomenda. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
+O Gigante é um assistente virtual que providencia dados valiosos e insights para donos de pequenas empresas que se estabeleceram recentemente no mercado de trabalho, ajudando-os a tomarem melhores decisões que os ajudam a aumentar a sua produtividade.
 
-**O que o Edu faz:**
-- ✅ Explica conceitos financeiros de forma simples
-- ✅ Usa dados do cliente como exemplos práticos
-- ✅ Responde dúvidas sobre produtos financeiros
-- ✅ Analisa padrões de gastos de forma educativa
-
-**O que o Edu NÃO faz:**
-- ❌ Não recomenda investimentos específicos
-- ❌ Não acessa dados bancários sensíveis
-- ❌ Não substitui um profissional certificado
+**As funçoes do Gigante**
+-Providenciar dados e insights que afetam na tomada de decisão
+-Buscar e divulgar pesquisas de mercado recentes
+-Analisar e verificar os ajustes que poderão ser realizados dentro das empresas
+-Apoia as decisões tomadas, sempre informando os pros e os contras de cada oportunidade de negócio.
 
 ## 🏗️ Arquitetura
 
@@ -62,7 +57,7 @@ flowchart TD
 pip install streamlit pandas requets anthropic
 ```
 
-### 3. Rodar o Gigante
+### 2. Rodar o Gigante
 
 ```bash
 streamlit run src/app.py
@@ -95,6 +90,3 @@ streamlit run src/app.py
 | **Assertividade** | O agente responde o que foi perguntado? |
 | **Segurança** | Evita inventar informações (anti-alucinação)? |
 | **Coerência** | A resposta é adequada ao perfil do cliente? |
-
-4. **Teste cenários reais:** Simule perguntas que um cliente faria de verdade
-5. **Seja direto no pitch:** 3 minutos passam rápido, vá ao ponto
