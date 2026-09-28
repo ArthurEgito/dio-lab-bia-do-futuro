@@ -3,8 +3,8 @@
     "nome_empresa": "Inauro Velas",
     "idade_empresa": 1.2,
     "endereco":  "Av. Prof Maria Sales, 71"
-    "bairro": manaíra
-    "categoria": "mec",
+    "bairro": "manaira"
+    "categoria": "mei",
     "patrimonio_empresarial": 30000.00
     "numero_funcionarios": 3,
     "metas": [
@@ -13,5 +13,5 @@
       "valor_necessario": 340000000.00,
       "prazo": "2028-06"
     },
-  },
+  }
 ]
