@@ -88,4 +88,4 @@ REGRAS:
 - A razão na qual o Claude foi escolhido para ser o nosso LLM foi devido a sua disposição em responder respostas claras, diretas e concisas, aspectos nas quais o Gigante procurar obter a fim de ser objetivo e apenas providenciar o necessário para na tomada de decisão de negócios.
 
 - [Observação 1]
-- [Observação 2]
+- [Observação 2
